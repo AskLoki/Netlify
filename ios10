@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>iOS 10 iPhone GUI | Facebook Design</title>
+	<meta name="author" content="Facebook, Inc." />
+	<meta name="keywords" content="facebook, design, team, resources, tools, articles, iOS, iOS9, iOS10, iPhone, devices, sketch, photoshop, psd, free, download, ">
+	<meta name="description" content="Sketch, Photoshop, Figma, XD and Craft templates of GUI elements found in the public release of iOS 10.">
+	<meta property="og:site_name" content="Facebook Design">
+	<meta property="og:title" content="Facebook Design &mdash; iOS 10 iPhone GUI">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="Sketch, Photoshop, Figma, XD and Craft templates of GUI elements found in the public release of iOS 10.">
+	<meta property="og:url" content="https://facebook.design/ios10">
+	<meta property="og:image" content="https://facebook.design/public/images/resource_ios10_share.png">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="https://facebook.design/ios10">
+	<meta name="twitter:title" content="Facebook Design &mdash; iOS 10 iPhone GUI">
+	<meta name="twitter:description" content="Sketch, Photoshop, Figma, XD and Craft templates of GUI elements found in the public release of iOS 10.">
+	<meta name="twitter:image" content="https://facebook.design/public/images/resource_ios10_share.png">
+	<meta name="twitter:site" content="@FacebookDesign">
+	<link href="feed.xml" type="application/rss+xml" rel="alternate" title="Feed of Recent Posts" />
+	<link rel="stylesheet" type="text/css" href="public/css/fonts.css">
+	<link rel="stylesheet" type="text/css" href="public/css/global.css">
+	<link rel="stylesheet" type="text/css" href="public/css/flex-layout-attribute.css">
+	<link rel="stylesheet" type="text/css" href="public/css/posts.css">
+	<link rel="icon" href="favicon.ico?v=1.2"> 
+	<script type='text/javascript' src='public/js/jquery-2.1.0.min.js'></script>
+	<script type='text/javascript' src='public/js/global.js'></script>
+	<script type='text/javascript' src="public/js/jquery.mixitup.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-68601148-1', 'auto');
+	  ga('send', 'pageview');
+	  ga('set', 'anonymizeIp', true);
+	</script>
+</head>
+<body>
+<div id="nav" layout="row top-left">
+	<div self="left">
+		<a href="index.html"><div class="logo logo-isNotVisIfMobile"></div></a>
+		<a href="index.html" class="logo-isVisIfMobile"><div class="logo logo-isVisIfMobile"></div></a>
+	</div>
+	<div class="nav-isNotVisIfMobile">
+		<div class="item">
+		<a href="blog/index.html">Blog</a>
+		</div>
+		<div class="item current">
+		<a href="toolsandresources/index.html">Tools & Resources</a>
+		</div>
+		<div class="item">
+		<a href="careers/index.html">Careers</a>
+		</div>
+	</div>
+	<div class="nav-isVisIfMobile">
+		<div class="item">
+		<a href="blog/index.html">Blog</a>
+		</div>
+		<div class="item current">
+		<a href="toolsandresources/index.html">Resources</a>
+		</div>
+		<div class="item">
+		<a href="careers/index.html">Careers</a>
+		</div>
+	</div>
+</div>
+	<div id="content">
+	
+		<div class="text">
+			<section class="container--full-screen" layout="column">
+			    <div self="top"></div>
+			    <div class="container--hero" layout="md-column" self="center">
+				<div class="header-image-container" self="size-large center">
+					<div class="header-image"></div>
+				</div>
+			      <div class="header-details-container" self="size-xsmall center">
+					  <h1>iOS 10 iPhone GUI</h1>
+					  <p>Sketch, Photoshop, Figma, XD and Craft templates of GUI elements found in the public release of iOS 10.</p>
+					  
+					<div class="container--dropdown"><li><a class="button">Download<svg width="16px" height="11px" viewBox="2 6 16 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M10.0277824,11.733532 L4.92676899,6.59719135 C4.46703111,6.13426955 3.72120795,6.13426955 3.26147007,6.59719135 C2.8017322,7.06011315 2.8017322,7.8105088 3.26147007,8.2734306 L9.0984116,14.150796 C9.12351624,14.181916 9.15044476,14.2120429 9.17919718,14.241032 C9.41605602,14.4795312 9.72975115,14.5933993 10.0399788,14.5826362 C10.3331141,14.5765617 10.624359,14.4609154 10.848028,14.2356974 C10.8946209,14.1887819 10.9364917,14.1389137 10.9736405,14.0866913 L16.7433863,8.27698698 C17.196649,7.8205852 17.196649,7.08026596 16.7433863,6.62445691 C16.2901236,6.16805514 15.5554849,6.16805514 15.1022222,6.62445691 L10.0277824,11.733532 Z" id="shape" stroke="none" fill-rule="evenodd"></path></svg></a>
+	            	<ul>
+	                <li><a class="dropdown" href="https://s3-us-west-1.amazonaws.com/fbdesignresources/iOS+10/Facebook+iOS+10+Sketch.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download Sketch');">Sketch</a></a></li>
+	                <li><a class="dropdown" href="https://s3-us-west-1.amazonaws.com/fbdesignresources/iOS+10/Facebook+iOS+10+Photoshop.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download PSD');">PSD</a></a></li>
+					
+					
+	                <li><a class="dropdown" target="_blank" href="https://www.figma.com/file/fRpAM0uVJSslGqEA7QOSdSI1/Facebook-iOS-10-Figma/duplicate" onClick="ga('send', 'event', 'Downloads', 'download', 'Open in Figma');">Open in Figma</a></li>
+	                <li><a class="dropdown" target="_blank" href="https://s3-us-west-1.amazonaws.com/fbdesignresources/iOS+10/Facebook+iOS+10+XD.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download XD');">XD</a></li>
+	                <li><a class="dropdown" target="_blank" href="https://s3.amazonaws.com/www-assets.invisionapp.com/labs/craft/Facebook%2BiOS%2B10%2BCraft.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download Craft');">Craft</a></li>
+	            </ul>
+	            </li>
+	            </div>
+	            
+
+
+					  
+					  <p class="header-disclaimer">Updated October 14, 2016 · <a href="http://facebookmicrosites.github.io/design/disclaimer/" onclick="javascript:popUp('http://facebookmicrosites.github.io/design/disclaimer/','Disclaimer','520','480');return false" class="small">Disclaimer</a></p>
+			      </div>
+			    </div>
+				<div class="action_bar-wrapper" self="bottom">
+					<div class="action_bar-share">
+							<div class="logo"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffacebook.design/ios10" onclick="javascript:popUp('https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffacebook.design/ios10','Share','520','350');return false" class="share"><svg width="28px" height="28px" class="icon" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.196929,27.8286204 L16.196929,18.0061731 L19.4444018,18.0061731 L20.073852,14.0430854 L16.196929,14.0430854 L16.196929,11.4169554 C16.196929,10.3097837 16.7298696,9.21848032 18.4689708,9.21848032 L20.2461538,9.21848032 L20.2461538,5.72114954 C19.1702055,5.52552287 18.1216567,5.42770954 17.1005077,5.42770954 C13.9026489,5.42770954 11.8030766,7.4068269 11.8030766,10.9156244 L11.8030766,14.0430854 L8.27076923,14.0430854 L8.27076923,18.0061731 L11.8030766,18.0061731 L11.8030766,27.8286213 C5.11476227,26.7744853 0,20.9845414 0,14 C0,6.268024 6.268024,0 14,0 C21.731976,0 28,6.268024 28,14 C28,20.9845395 22.8852406,26.774482 16.196929,27.8286204 Z" id="path-1"></path></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><mask id="mask-2" fill="white"><use xlink:href="#path-1"></use></mask><use id="Fill-1" fill="#677B8C" xlink:href="#path-1"></use></g></svg><span>Share</span></a></div>
+							<div class="logo"><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Ffacebook.design/ios10&amp;via=FacebookDesign&amp;text=iOS 10 iPhone GUI%20-%20Facebook%20Design%20Resources&amp;" onclick="javascript:popUp('https://twitter.com/intent/tweet?url=http%3A%2F%2Ffacebook.design/ios10&amp;via=FacebookDesign&amp;text=iOS 10 iPhone GUI%20-%20Facebook%20Design%20Resources&amp;','Share','520','350');return false" class="share"><svg version="1.1" class="icon" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-219 327.6 171.5 139.4" style="enable-background:new -219 327.6 171.5 139.4;" xml:space="preserve"><path fill="#677B8C" d="M-47.5,344.1c-6.3,2.8-13.1,4.7-20.2,5.5c7.3-4.4,12.8-11.2,15.5-19.5c-6.8,4-14.3,7-22.3,8.5c-6.4-6.8-15.6-11.1-25.7-11.1c-19.4,0-35.2,15.8-35.2,35.2c0,2.8,0.3,5.4,0.9,8c-29.2-1.5-55.2-15.5-72.5-36.8c-3,5.2-4.8,11.2-4.8,17.7c0,12.2,6.2,23,15.7,29.3c-5.8-0.2-11.2-1.8-15.9-4.4c0,0.1,0,0.3,0,0.4c0,17,12.1,31.3,28.2,34.5c-3,0.8-6.1,1.2-9.3,1.2c-2.3,0-4.5-0.2-6.6-0.6c4.5,14,17.5,24.2,32.9,24.4c-12,9.4-27.2,15.1-43.7,15.1c-2.8,0-5.6-0.2-8.4-0.5c15.6,10,34.1,15.8,53.9,15.8c64.7,0,100.1-53.6,100.1-100.1c0-1.5,0-3-0.1-4.6C-58.2,357.4-52.2,351.2-47.5,344.1L-47.5,344.1z"></path></svg><span>Tweet</span></a></div>
+					</div>
+					<div class="action_bar-arrow">
+						<a data-scroll="" href="ios10#scroll"><svg version="1.1" class="arrow-icon" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-279 386 53 21" style="enable-background:new -279 386 53 21;" xml:space="preserve"><polygon id="SVGID_3_" class="st0" fill="#DDDFE2" points="-252.5,403.3 -277.3,386 -279,388.5 -252.8,406.8 -252.5,406.4 -252.3,406.8 -226.1,388.5 -227.8,386 "></polygon></svg></a>
+					</div>
+			    </div>
+			</section>
+<div id="scroll" class="content"><div layout="row stretch-stretch">
+    <div class="container--image" self="size-x1 stretch">
+		<img class="container--full-width" src="public/images/ios10.png" />
+    </div>
+</div>
+
+<h2 id="design-better-faster">Design better, faster</h2>
+
+<p>Some people find this file useful for mocking up apps while others use it to concept ideas or create custom interface elements that work harmoniously with those native to iOS. Whatever your use, we hope you make good stuff with it.</p>
+
+<p>New to designing apps? You may want to get acquainted with some of the support documentation that Apple has put together over at <a href="http://developer.apple.com/" target="_blank">developer.apple.com</a> (login required). PDFs like the iOS HIG, UI Transition Guide, and UIKit Catalog will help you become familiar with how and when to use these elements.</p>
+<div layout="row center-center">
+    <div class="container--image">
+		<img class="container--page-width" src="public/images/ios10-phones.png" />
+    </div>
+</div>
+
+<h2 id="whats-inside">What’s inside?</h2>
+
+<p>Whether you work in Photoshop, Sketch, Figma, or XD, we created a file to use with each tool.</p>
+
+<p>Facebook iOS 10 Light contains the stuff you use the most when designing for iOS. Most of the components there match vanilla iOS components so you can be confident designs map to the tools your engineers use. In Figma, Sketch, and XD, we’ve worked in 1x and in Photoshop at 2x. Where possible we’ve tried to make components scale across device widths.</p>
+
+<p>In addition to the commonly used UI elements, Facebook iOS 10 contains a ton of elements found throughout the latest iOS release.</p>
+
+<div class="container--image">
+	<div class="container--photo-grid">
+		<ul layout="rows top-center">
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/1-News-For_You.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/2-Maps-Search_Result.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/3-iMessage-Photos.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/4-Settings.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/5-Music-Library.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/6-Health.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/7-Music-Now_Playing.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/8-News-Explore.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/9-Mail-Inbox.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/10-Control_Center.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/11-Capture_Video.png" />
+				</div>
+			</li>
+			<li>
+				<div class="photo-grid-card">
+					<img class="photo-grid-card-image" src="public/images/ios10/12-Lockscreen.png" />
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+
+</div>
+		<div class="content-wrapper">
+		  <div class="container container--credits">
+				<p>A special thanks to  <span>Jeff Smith, </span> <span>Marcos Mejia, </span> <span>Robin Clediere, </span> <span>Dan Lebowitz, </span> <span>J.T. Trollman, </span> <span>Nate Butler, </span> <span>Jeremy Friedland, </span> <span>Dean Hudson, </span> <span>Robert Cooper, </span> <span>Trevor Phillippi, </span> <span>Charlie Deets, </span> <span>Ali Griffin, </span> <span>Jonathan Chen, </span> <span>Chelsea Kim, </span> <span>Ryan Ma, </span> <span>Joseph Albanese, </span> <span>Eric Ertmann, </span> <span>Priyanka Kodikal, </span> <span>Pietro Schirano, </span> <span>Yih Liang, </span>  <span>and Daniel Giuditta.</span></span></p>
+				<div style="max-width: 668px; margin-left: auto; margin-right: auto"><a target="_blank" class="tooltip" href="https://medium.com/@jeffpersonified"><img src="public/images/avatars/jeff.jpg" alt="Jeff Smith"><span class="tooltip-text">Jeff Smith</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/marcosmejia"><img src="public/images/avatars/marcos.jpg" alt="Marcos Mejia"><span class="tooltip-text">Marcos Mejia</span></a><a target="_blank" class="tooltip" href="http://twitter.com/robinclediere"><img src="public/images/avatars/robin.jpg" alt="Robin Clediere"><span class="tooltip-text">Robin Clediere</span></a><a target="_blank" class="tooltip" href="http://twitter.com/lebo"><img src="public/images/avatars/dan.jpg" alt="Dan Lebowitz"><span class="tooltip-text">Dan Lebowitz</span></a><a target="_blank" class="tooltip" href="https://twitter.com/jtroll"><img src="public/images/avatars/jt.jpg" alt="J.T. Trollman"><span class="tooltip-text">J.T. Trollman</span></a><a target="_blank" class="tooltip" href="http://nate.jp"><img src="public/images/avatars/nate.jpg" alt="Nate Butler"><span class="tooltip-text">Nate Butler</span></a><a target="_blank" class="tooltip" href="https://www.instagram.com/jsfried/"><img src="public/images/avatars/jeremyf.jpg" alt="Jeremy Friedland"><span class="tooltip-text">Jeremy Friedland</span></a><a target="_blank" class="tooltip" href="https://twitter.com/deanhudson"><img src="public/images/avatars/dean.png" alt="Dean Hudson"><span class="tooltip-text">Dean Hudson</span></a><a target="_blank" class="tooltip" href="https://twitter.com/robertjcooper"><img src="public/images/avatars/robert.jpg" alt="Robert Cooper"><span class="tooltip-text">Robert Cooper</span></a><a target="_blank" class="tooltip" href="https://twitter.com/trevorphillippi"><img src="public/images/avatars/trevor.jpg" alt="Trevor Phillippi"><span class="tooltip-text">Trevor Phillippi</span></a><a target="_blank" class="tooltip" href="https://twitter.com/charliedeets"><img src="public/images/avatars/charlie.jpg" alt="Charlie Deets"><span class="tooltip-text">Charlie Deets</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/alison.g.415"><img src="public/images/avatars/ali.jpg" alt="Ali Griffin"><span class="tooltip-text">Ali Griffin</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/jonathanechen"><img src="public/images/avatars/jonathan.jpg" alt="Jonathan Chen"><span class="tooltip-text">Jonathan Chen</span></a><a target="_blank" class="tooltip" href="http://www.facebook.com/chelseahjkim"><img src="public/images/avatars/chelsea.jpg" alt="Chelsea Kim"><span class="tooltip-text">Chelsea Kim</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/ryanlyma"><img src="public/images/avatars/ryan.jpg" alt="Ryan Ma"><span class="tooltip-text">Ryan Ma</span></a><a target="_blank" class="tooltip" href="https://twitter.com/josephpalbanese"><img src="public/images/avatars/joseph.jpg" alt="Joseph Albanese"><span class="tooltip-text">Joseph Albanese</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/eertmann"><img src="public/images/avatars/eric.jpg" alt="Eric Ertmann"><span class="tooltip-text">Eric Ertmann</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/pkodikal"><img src="public/images/avatars/priyanka.jpg" alt="Priyanka Kodikal"><span class="tooltip-text">Priyanka Kodikal</span></a><a target="_blank" class="tooltip" href="http://twitter.com/skirano"><img src="public/images/avatars/pietro.png" alt="Pietro Schirano"><span class="tooltip-text">Pietro Schirano</span></a><a target="_blank" class="tooltip" href="http://tflsmedia.com"><img src="public/images/avatars/yih.png" alt="Yih Liang"><span class="tooltip-text">Yih Liang</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/daniel.giuditta.5"><img src="public/images/avatars/daniel.jpg" alt="Daniel Giuditta"><span class="tooltip-text">Daniel Giuditta</span></a>
+		  		</div>
+			</div>
+		</div>
+		<div class="container--call_to_action">
+				<div class="container--dropdown"><li><a class="button">Download<svg width="16px" height="11px" viewBox="2 6 16 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M10.0277824,11.733532 L4.92676899,6.59719135 C4.46703111,6.13426955 3.72120795,6.13426955 3.26147007,6.59719135 C2.8017322,7.06011315 2.8017322,7.8105088 3.26147007,8.2734306 L9.0984116,14.150796 C9.12351624,14.181916 9.15044476,14.2120429 9.17919718,14.241032 C9.41605602,14.4795312 9.72975115,14.5933993 10.0399788,14.5826362 C10.3331141,14.5765617 10.624359,14.4609154 10.848028,14.2356974 C10.8946209,14.1887819 10.9364917,14.1389137 10.9736405,14.0866913 L16.7433863,8.27698698 C17.196649,7.8205852 17.196649,7.08026596 16.7433863,6.62445691 C16.2901236,6.16805514 15.5554849,6.16805514 15.1022222,6.62445691 L10.0277824,11.733532 Z" id="shape" stroke="none" fill-rule="evenodd"></path></svg></a>
+	            <ul>
+	                <li><a class="dropdown" href="https://s3-us-west-1.amazonaws.com/fbdesignresources/iOS+10/Facebook+iOS+10+Sketch.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download Sketch');">Sketch</a></a></li>
+	                <li><a class="dropdown" href="https://s3-us-west-1.amazonaws.com/fbdesignresources/iOS+10/Facebook+iOS+10+Photoshop.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download PSD');">PSD</a></a></li>
+					
+					
+	                <li><a class="dropdown" target="_blank" href="https://www.figma.com/file/fRpAM0uVJSslGqEA7QOSdSI1/Facebook-iOS-10-Figma/duplicate" onClick="ga('send', 'event', 'Downloads', 'download', 'Open in Figma');">Open in Figma</a></li>
+	                <li><a class="dropdown" target="_blank" href="https://s3-us-west-1.amazonaws.com/fbdesignresources/iOS+10/Facebook+iOS+10+XD.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download XD');">XD</a></li>
+	                <li><a class="dropdown" target="_blank" href="https://s3.amazonaws.com/www-assets.invisionapp.com/labs/craft/Facebook%2BiOS%2B10%2BCraft.zip" onClick="ga('send', 'event', 'Downloads', 'download', 'Download Craft');">Craft</a></li>
+	            </ul>
+	            </li>
+	            </div>
+	            
+		</div><div class="page-wrapper"><hr /></div>
+		<div class="related_posts-container">
+			<p class="related_posts-header">More Resources</p>
+          <div class="related_posts-container">
+            <div layout="rows center-spread">
+
+		<a href="devices" onClick="ga('send', 'event', 'Devices', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/card_resource_devices_2020@2x.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">Devices</div>
+					<p class="card-description">Images and Sketch files of popular devices.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">images</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+
+		<a href="ios11" onClick="ga('send', 'event', 'iOS 11 iPhone GUI', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/ios11-card.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">iOS 11 iPhone GUI</div>
+					<p class="card-description">Origami, Sketch, Framer, and Photoshop templates of GUI elements found in the public release of iOS 11.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">guis</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+
+		<a href="desktopkit" onClick="ga('send', 'event', 'Desktop Kit', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/card_resource_desktopkit@2x.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">Desktop Kit</div>
+					<p class="card-description">Sketch Template of UI Elements Found in macOS.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">guis</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+            </div>
+          </div>
+	</div>
+</div>
+
+<style>.header-image { background-image:url(public/images/ios10_header.jpg);}</style>
+<script>
+$(function(){
+    var bgimage = new Image();      
+    bgimage.src="/public/images/ios10_header.jpg";       
+    $(bgimage).load(function(){
+        $('.header-image').addClass('visible');  
+        $(".header-image").css("background-image","url("+$(this).attr("src")+")");
+    });
+});
+</script>
+<script src="public/js/smooth-scroll.js"></script>
+<script src="public/js/popup.js"></script>
+<script>smoothScroll.init();</script>
+
+	</div>
+<div id="footer" layout="rows center-left">
+	<div id="end-mark">
+		<p class="copyright">Facebook &copy; 2020&nbsp;&nbsp;·&nbsp;&nbsp;<a onClick="ga('send', 'event', 'Careers Referral', 'clicks', 'Careers');" href="https://www.facebook.com/careers/areas-of-work/design/?ref=fbd_product_design&sub_teams[0]=Design" target="_blank">Careers</a></p>
+	</div>
+	<div id="footer-links" self="right">
+		<ul>
+			<a href="http://facebook.com/design" onClick="ga('send', 'event', 'Facebook', 'clicks', 'Footer');"><li class="facebook"></li></a>
+			<a href="http://instagram.com/facebookdesign" onClick="ga('send', 'event', 'Instagram', 'clicks', 'Footer');"><li class="instagram"></li></a>
+			<a href="http://twitter.com/facebookdesign" onClick="ga('send', 'event', 'Twitter', 'clicks', 'Footer');"><li class="twitter"></li></a>
+			<a href="http://dribbble.com/facebook" onClick="ga('send', 'event', 'Dribbble', 'clicks', 'Footer');"><li class="dribbble"></li></a>
+			<a href="http://medium.com/facebook-design" onClick="ga('send', 'event', 'Medium', 'clicks', 'Footer');"><li class="medium"></li></a>
+		</ul>
+	</div>
+</div>
+</body>
+</html>
+

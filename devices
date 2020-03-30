@@ -1,0 +1,949 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Devices | Facebook Design</title>
+	<meta name="author" content="Facebook, Inc." />
+	<meta name="keywords" content="facebook, design, team, resources, tools, articles, iOS, iOS9, iOS10, iPhone, devices, sketch, photoshop, psd, free, download, ">
+	<meta name="description" content="Images and Sketch files of popular devices.">
+	<meta property="og:site_name" content="Facebook Design">
+	<meta property="og:title" content="Facebook Design &mdash; Devices">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="Images and Sketch files of popular devices.">
+	<meta property="og:url" content="https://facebook.design/devices">
+	<meta property="og:image" content="https://facebook.design/public/images/resource_devices_share.png">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="https://facebook.design/devices">
+	<meta name="twitter:title" content="Facebook Design &mdash; Devices">
+	<meta name="twitter:description" content="Images and Sketch files of popular devices.">
+	<meta name="twitter:image" content="https://facebook.design/public/images/resource_devices_share.png">
+	<meta name="twitter:site" content="@FacebookDesign">
+	<link href="feed.xml" type="application/rss+xml" rel="alternate" title="Feed of Recent Posts" />
+	<link rel="stylesheet" type="text/css" href="public/css/fonts.css">
+	<link rel="stylesheet" type="text/css" href="public/css/global.css">
+	<link rel="stylesheet" type="text/css" href="public/css/flex-layout-attribute.css">
+	<link rel="stylesheet" type="text/css" href="public/css/posts.css">
+	<link rel="icon" href="favicon.ico?v=1.2"> 
+	<script type='text/javascript' src='public/js/jquery-2.1.0.min.js'></script>
+	<script type='text/javascript' src='public/js/global.js'></script>
+	<script type='text/javascript' src="public/js/jquery.mixitup.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-68601148-1', 'auto');
+	  ga('send', 'pageview');
+	  ga('set', 'anonymizeIp', true);
+	</script>
+</head>
+<body>
+<div id="nav" layout="row top-left">
+	<div self="left">
+		<a href="index.html"><div class="logo logo-isNotVisIfMobile"></div></a>
+		<a href="index.html" class="logo-isVisIfMobile"><div class="logo logo-isVisIfMobile"></div></a>
+	</div>
+	<div class="nav-isNotVisIfMobile">
+		<div class="item">
+		<a href="blog/index.html">Blog</a>
+		</div>
+		<div class="item current">
+		<a href="toolsandresources/index.html">Tools & Resources</a>
+		</div>
+		<div class="item">
+		<a href="careers/index.html">Careers</a>
+		</div>
+	</div>
+	<div class="nav-isVisIfMobile">
+		<div class="item">
+		<a href="blog/index.html">Blog</a>
+		</div>
+		<div class="item current">
+		<a href="toolsandresources/index.html">Resources</a>
+		</div>
+		<div class="item">
+		<a href="careers/index.html">Careers</a>
+		</div>
+	</div>
+</div>
+	<div id="content">
+	
+		<div class="text">
+			<section class="container--full-screen" layout="column">
+			    <div self="top"></div>
+			    <div class="container--hero" layout="md-column" self="center">
+				<div class="header-image-container" self="size-large center">
+					<div class="header-image"></div>
+				</div>
+			      <div class="header-details-container" self="size-xsmall center">
+					  <h1>Devices</h1>
+					  <p>Images and Sketch files of popular devices.</p>
+					  
+					  <a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Facebook+Devices.zip" target="_blank" onClick="ga('send', 'event', 'Downloads', 'download', 'Download All Devices');"><button class="button button--active button--header">Download All Devices</button></a>
+					  
+
+
+					  
+					  <p class="header-disclaimer">Updated Feb 26th, 2020 · <a href="http://facebookmicrosites.github.io/design/disclaimer/" onclick="javascript:popUp('http://facebookmicrosites.github.io/design/disclaimer/','Disclaimer','520','480');return false" class="small">Disclaimer</a></p>
+			      </div>
+			    </div>
+				<div class="action_bar-wrapper" self="bottom">
+					<div class="action_bar-share">
+							<div class="logo"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffacebook.design/devices" onclick="javascript:popUp('https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffacebook.design/devices','Share','520','350');return false" class="share"><svg width="28px" height="28px" class="icon" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.196929,27.8286204 L16.196929,18.0061731 L19.4444018,18.0061731 L20.073852,14.0430854 L16.196929,14.0430854 L16.196929,11.4169554 C16.196929,10.3097837 16.7298696,9.21848032 18.4689708,9.21848032 L20.2461538,9.21848032 L20.2461538,5.72114954 C19.1702055,5.52552287 18.1216567,5.42770954 17.1005077,5.42770954 C13.9026489,5.42770954 11.8030766,7.4068269 11.8030766,10.9156244 L11.8030766,14.0430854 L8.27076923,14.0430854 L8.27076923,18.0061731 L11.8030766,18.0061731 L11.8030766,27.8286213 C5.11476227,26.7744853 0,20.9845414 0,14 C0,6.268024 6.268024,0 14,0 C21.731976,0 28,6.268024 28,14 C28,20.9845395 22.8852406,26.774482 16.196929,27.8286204 Z" id="path-1"></path></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><mask id="mask-2" fill="white"><use xlink:href="#path-1"></use></mask><use id="Fill-1" fill="#677B8C" xlink:href="#path-1"></use></g></svg><span>Share</span></a></div>
+							<div class="logo"><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Ffacebook.design/devices&amp;via=FacebookDesign&amp;text=Devices%20-%20Facebook%20Design%20Resources&amp;" onclick="javascript:popUp('https://twitter.com/intent/tweet?url=http%3A%2F%2Ffacebook.design/devices&amp;via=FacebookDesign&amp;text=Devices%20-%20Facebook%20Design%20Resources&amp;','Share','520','350');return false" class="share"><svg version="1.1" class="icon" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-219 327.6 171.5 139.4" style="enable-background:new -219 327.6 171.5 139.4;" xml:space="preserve"><path fill="#677B8C" d="M-47.5,344.1c-6.3,2.8-13.1,4.7-20.2,5.5c7.3-4.4,12.8-11.2,15.5-19.5c-6.8,4-14.3,7-22.3,8.5c-6.4-6.8-15.6-11.1-25.7-11.1c-19.4,0-35.2,15.8-35.2,35.2c0,2.8,0.3,5.4,0.9,8c-29.2-1.5-55.2-15.5-72.5-36.8c-3,5.2-4.8,11.2-4.8,17.7c0,12.2,6.2,23,15.7,29.3c-5.8-0.2-11.2-1.8-15.9-4.4c0,0.1,0,0.3,0,0.4c0,17,12.1,31.3,28.2,34.5c-3,0.8-6.1,1.2-9.3,1.2c-2.3,0-4.5-0.2-6.6-0.6c4.5,14,17.5,24.2,32.9,24.4c-12,9.4-27.2,15.1-43.7,15.1c-2.8,0-5.6-0.2-8.4-0.5c15.6,10,34.1,15.8,53.9,15.8c64.7,0,100.1-53.6,100.1-100.1c0-1.5,0-3-0.1-4.6C-58.2,357.4-52.2,351.2-47.5,344.1L-47.5,344.1z"></path></svg><span>Tweet</span></a></div>
+					</div>
+					<div class="action_bar-arrow">
+						<a data-scroll="" href="devices#scroll"><svg version="1.1" class="arrow-icon" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-279 386 53 21" style="enable-background:new -279 386 53 21;" xml:space="preserve"><polygon id="SVGID_3_" class="st0" fill="#DDDFE2" points="-252.5,403.3 -277.3,386 -279,388.5 -252.8,406.8 -252.5,406.4 -252.3,406.8 -226.1,388.5 -227.8,386 "></polygon></svg></a>
+					</div>
+			    </div>
+			</section>
+<div id="scroll" class="content"><h2 id="designing-for-many-platforms">Designing for many platforms</h2>
+
+<p>Facebook supports a diverse audience around the world and an equally diverse set of devices. To emphasize that in our design mocks, we redrew a range of devices to show the global diversity of the people using our products. Each device comes with a bitmap of the device (with and without shadows) and the original Sketch file for that device.</p>
+
+<p>We’ve incorporated many of these devices into Origami and worked with the Framer Team to add them to Framer as well.</p>
+
+<p>Please do not repackage and redistribute these as your own. Please see <a href="http://facebookmicrosites.github.io/design/disclaimer/" onclick="javascript:popUp('http://facebookmicrosites.github.io/design/disclaimer/','Disclaimer','520','480');return false" class="small">disclaimer</a> for full details.</p>
+
+<div id="filters" class="container--resource">
+	<div layout="rows" class="grid grid-filter-wrapper">
+		<div class="grid-filters">
+			<ul>
+						<li class="filter" data-filter="all"><a data-scroll="" class="selected" href="devices#filters" data-type="all">All</a></li>
+						<li class="filter" data-filter=".phone"><a data-scroll="" href="devices#filters" data-type="phone">Phone</a></li>
+						<li class="filter" data-filter=".watch"><a data-scroll="" href="devices#filters" data-type="watch">Watch</a></li>
+						<li class="filter" data-filter=".tablet"><a data-scroll="" href="devices#filters" data-type="tablet">Tablet</a></li>
+						<li class="filter" data-filter=".computer"><a data-scroll="" href="devices#filters" data-type="computer">Computer</a></li>
+						<li class="filter" data-filter=".display"><a data-scroll="" href="devices#filters" data-type="display">Display</a></li>
+						<li class="filter" data-filter=".home"><a data-scroll="" href="devices#filters" data-type="home">Home</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="container--grid">
+		<ul layout="rows top-center">
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iMac.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iMac');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_imac@2x.jpg" />
+					<h3 class="grid-card-title">Apple iMac</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iMac+Pro.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iMac Pro');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_imacpro2019@2x.jpg" />
+					<h3 class="grid-card-title">Apple iMac Pro</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iMac+Retina.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iMac Retina');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_imacretina@2x.jpg" />
+					<h3 class="grid-card-title">Apple iMac Retina</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix tablet">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPad.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPad');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_ipad2019@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPad</h3>
+					<p class="grid-card-subtitle">tablet</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix tablet">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPad+Air.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPad Air');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_ipadair2019@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPad Air</h3>
+					<p class="grid-card-subtitle">tablet</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix tablet">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPad+Mini.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPad Mini');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_ipadmini2019@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPad Mini</h3>
+					<p class="grid-card-subtitle">tablet</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix tablet">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPad+Pro.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPad Pro');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_ipadpro2019@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPad Pro</h3>
+					<p class="grid-card-subtitle">tablet</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+5c.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 5C');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone5c@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 5C</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+5s.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 5S');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone5s@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 5S</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+SE.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone SE');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphonese@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone SE</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+6s.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 6S');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone6s@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 6S</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+6s+Plus.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 6S Plus');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone6splus@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 6S Plus</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+7.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 7');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone7@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 7</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+7+Plus.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 7 Plus');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone7plus@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 7 Plus</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+8.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 8');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone8@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 8</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+8+Plus.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 8 Plus');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone8plus@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 8 Plus</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+X.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone X');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphoneX@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone X</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+XR.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone XR');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphoneXR@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone XR</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+XS.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone XS');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphoneXS@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone XS</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+XS+Max.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone XS Max');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphoneXSMax@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone XS Max</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+11.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 11');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone11@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 11</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+11+Pro.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 11 Pro');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone11pro@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 11 Pro</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+iPhone+11+Pro+Max.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple iPhone 11 Pro Max');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_iphone11promax@2x.jpg" />
+					<h3 class="grid-card-title">Apple iPhone 11 Pro Max</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+MacBook.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple MacBook');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_macbook@2x.jpg" />
+					<h3 class="grid-card-title">Apple MacBook</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+MacBook+Air.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple MacBook Air');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_macbookair2019@2x.jpg" />
+					<h3 class="grid-card-title">Apple MacBook Air</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+MacBook+Pro.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple MacBook Pro');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_macbookpro2020@2x.jpg" />
+					<h3 class="grid-card-title">Apple MacBook Pro</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix display">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+Pro+Display+XDR.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple Pro Display XDR');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_prodisplayxdr@2x.jpg" />
+					<h3 class="grid-card-title">Apple Pro Display XDR</h3>
+					<p class="grid-card-subtitle">display</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix display">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+Thunderbolt+Display.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple Thunderbolt');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_thunderbolt@2x.jpg" />
+					<h3 class="grid-card-title">Apple Thunderbolt</h3>
+					<p class="grid-card-subtitle">display</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix watch">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+Watch.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple Watch');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_applewatch@2x.jpg" />
+					<h3 class="grid-card-title">Apple Watch</h3>
+					<p class="grid-card-subtitle">watch</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix watch">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+Watch+2.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple Watch 2');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_applewatch2@2x.jpg" />
+					<h3 class="grid-card-title">Apple Watch 2</h3>
+					<p class="grid-card-subtitle">watch</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix watch">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Apple+Watch+Series+5.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Apple Watch Series 5');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_applewatch5@2x.jpg" />
+					<h3 class="grid-card-title">Apple Watch Series 5</h3>
+					<p class="grid-card-subtitle">watch</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix display">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Dell+UltraSharp+HD+5K+Monitor.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Dell UltraSharp HD');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_dellultrasharphd@2x.jpg" />
+					<h3 class="grid-card-title">Dell UltraSharp HD</h3>
+					<p class="grid-card-subtitle">display</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix display">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Dell+UltraSharp+Monitor.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Dell UltraSharp');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_dellultrasharp@2x.jpg" />
+					<h3 class="grid-card-title">Dell UltraSharp</h3>
+					<p class="grid-card-subtitle">display</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Dell+XPS+13.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Dell XPS 13');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_dell13@2x.jpg" />
+					<h3 class="grid-card-title">Dell XPS 13</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Dell+XPS+15.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Dell XPS 15');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_dell15@2x.jpg" />
+					<h3 class="grid-card-title">Dell XPS 15</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix home">
+				<div class="grid-card"><a href="https://fbdesignresources.s3-us-west-1.amazonaws.com/Devices/Facebook+Portal+(1st+Gen).zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Facebook Portal (1st Gen)');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_portal@2x.jpg" />
+					<h3 class="grid-card-title">Facebook Portal (1st Gen)</h3>
+					<p class="grid-card-subtitle">home</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix home">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Facebook+Portal.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Facebook Portal');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_portal2@2x.jpg" />
+					<h3 class="grid-card-title">Facebook Portal</h3>
+					<p class="grid-card-subtitle">home</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix home">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Facebook+Portal+Mini.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Facebook Portal Mini');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_portalmini@2x.jpg" />
+					<h3 class="grid-card-title">Facebook Portal Mini</h3>
+					<p class="grid-card-subtitle">home</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix home">
+				<div class="grid-card"><a href="https://fbdesignresources.s3-us-west-1.amazonaws.com/Devices/Facebook+Portal%2B.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Facebook Portal+');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_portalplus@2x.jpg" />
+					<h3 class="grid-card-title">Facebook Portal+</h3>
+					<p class="grid-card-subtitle">home</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix home">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Facebook+Portal+TV.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Facebook Portal TV');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_portaltv@2x.jpg" />
+					<h3 class="grid-card-title">Facebook Portal TV</h3>
+					<p class="grid-card-subtitle">home</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nexus+4.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Nexus 4');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nexus4@2x.jpg" />
+					<h3 class="grid-card-title">Google Nexus 4</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nexus+5X.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Nexus 5X');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nexus5x@2x.jpg" />
+					<h3 class="grid-card-title">Google Nexus 5X</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nexus+6P.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Nexus 6P');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nexus6p@2x.jpg" />
+					<h3 class="grid-card-title">Google Nexus 6P</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix tablet">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nexus+9.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Nexus 9');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nexus9@2x.jpg" />
+					<h3 class="grid-card-title">Google Nexus 9</h3>
+					<p class="grid-card-subtitle">tablet</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Google+Pixel.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Pixel');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_pixel@2x.jpg" />
+					<h3 class="grid-card-title">Google Pixel</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Google+Pixel+2.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Pixel 2');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_pixel2@2x.jpg" />
+					<h3 class="grid-card-title">Google Pixel 2</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Google+Pixel+2+XL.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Pixel 2 XL');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_pixel2XL@2x.jpg" />
+					<h3 class="grid-card-title">Google Pixel 2 XL</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Google+Pixel+3.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Pixel 3');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_pixel3@2x.jpg" />
+					<h3 class="grid-card-title">Google Pixel 3</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Google+Pixel+3+XL.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Pixel 3 XL');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_pixel3XL@2x.jpg" />
+					<h3 class="grid-card-title">Google Pixel 3 XL</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Google+Pixel+4.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Pixel 4');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_pixel4@2x.jpg" />
+					<h3 class="grid-card-title">Google Pixel 4</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Google+Pixel+4+XL.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Google Pixel 4 XL');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_pixel4xl@2x.jpg" />
+					<h3 class="grid-card-title">Google Pixel 4 XL</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/HTC+One+A9.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'HTC One A9');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_htconea9@2x.jpg" />
+					<h3 class="grid-card-title">HTC One A9</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/HTC+One+M8.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'HTC One M8');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_htconem8@2x.jpg" />
+					<h3 class="grid-card-title">HTC One M8</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Huawei+P8.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Huawei P8');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_huaweiP8@2x.jpg" />
+					<h3 class="grid-card-title">Huawei P8</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Microsoft+Lumia+950.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Microsoft Lumia 950');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_lumia950@2x.jpg" />
+					<h3 class="grid-card-title">Microsoft Lumia 950</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix tablet">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Microsoft+Surface+3.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Microsoft Surface 3');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_surfacepro3@2x.jpg" />
+					<h3 class="grid-card-title">Microsoft Surface 3</h3>
+					<p class="grid-card-subtitle">tablet</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix computer">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Microsoft+Surface+Book.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Microsoft Surface Book');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_surfacebook@2x.jpg" />
+					<h3 class="grid-card-title">Microsoft Surface Book</h3>
+					<p class="grid-card-subtitle">computer</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix tablet">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Microsoft+Surface+Pro+4.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Microsoft Surface Pro 4');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_surfacepro4@2x.jpg" />
+					<h3 class="grid-card-title">Microsoft Surface Pro 4</h3>
+					<p class="grid-card-subtitle">tablet</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix watch">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Motorola+Moto+360.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Motorola Moto 360');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_motorolawatch@2x.jpg" />
+					<h3 class="grid-card-title">Motorola Moto 360</h3>
+					<p class="grid-card-subtitle">watch</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Motorola+Moto+E.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Motorola Moto E');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_motoe@2x.jpg" />
+					<h3 class="grid-card-title">Motorola Moto E</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Motorola+Moto+G.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Motorola Moto G');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_motog@2x.jpg" />
+					<h3 class="grid-card-title">Motorola Moto G</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nokia+220.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Nokia 220');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nokia220@2x.jpg" />
+					<h3 class="grid-card-title">Nokia 220</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nokia+230.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Nokia 230');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nokia230@2x.jpg" />
+					<h3 class="grid-card-title">Nokia 230</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nokia+Asha+230.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Nokia Asha 230');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nokiaasha230@2x.jpg" />
+					<h3 class="grid-card-title">Nokia Asha 230</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Nokia+C3-00.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Nokia C300');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_nokiac300@2x.jpg" />
+					<h3 class="grid-card-title">Nokia C300</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix home">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Frame.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Frame');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_samsungframe@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Frame</h3>
+					<p class="grid-card-subtitle">home</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+Grand+Prime.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy Grand Prime');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxy_grandprime@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy Grand Prime</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+Note+5.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy Note 5');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxynote5@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy Note 5</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+Note10.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy Note 10');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_note10@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy Note 10</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+Note10%2B.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy Note 10+');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_note10plus@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy Note 10+</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S3.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S3');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys3@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S3</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S5.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S5');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys5@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S5</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S7.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S7');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys7@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S7</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S8.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S8');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys8@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S8</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S9.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S9');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys9@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S9</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S10.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S10');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys10@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S10</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S10%2B.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S10+');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys10plus@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S10+</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S20.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S20');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys20@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S20</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://fbdesignresources.s3-us-west-1.amazonaws.com/Devices/Samsung+Galaxy+S20%2B.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S20+');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys20plus@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S20+</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S20+Ultra.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S20 Ultra');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys20ultra@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S20 Ultra</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+S+Duos.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy S Duos');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxys@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy S Duos</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Samsung+Galaxy+Y.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Samsung Galaxy Y');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_galaxyy@2x.jpg" />
+					<h3 class="grid-card-title">Samsung Galaxy Y</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix watch">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Sony+SmartWatch+3.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Sony SmartWatch');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_sonysmartwatch@2x.jpg" />
+					<h3 class="grid-card-title">Sony SmartWatch</h3>
+					<p class="grid-card-subtitle">watch</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix home">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Sony+W850C.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Sony W850');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_sonyw850c@2x.jpg" />
+					<h3 class="grid-card-title">Sony W850</h3>
+					<p class="grid-card-subtitle">home</p>
+					</a>
+				</div>
+			</li>
+			<li class="mix phone">
+				<div class="grid-card"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Xiaomi+Mi+Mix+Alpha.zip" onclick="ga('send', 'event', 'Device Download', 'download', 'Xiaomi Mi Mix Alpha');">
+					<img class="grid-card-image" src="public/images/devices/design_resource_devices_mimixalpha@2x.jpg" />
+					<h3 class="grid-card-title">Xiaomi Mi Mix Alpha</h3>
+					<p class="grid-card-subtitle">phone</p>
+					</a>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>
+		<div class="content-wrapper">
+		  <div class="container container--credits">
+				<p>A special thanks to  <span>Riccardo Carlet, </span> <span>Eric Liang, </span> <span>Jeff Smith, </span> <span>Andrew Aquino, </span> <span>Robin Clediere, </span> <span>Dean Hudson, </span> <span>Pietro Schirano, </span> <span>Harry Copeman, </span> <span>Andrew Pouliot, </span> <span>Yih Liang, </span> <span>Shali Nguyen, </span> <span>J.T. Trollman, </span> <span>Benji Kuroda, </span> <span>Gabriel Valdivia, </span> <span>Pelle Wistén, </span> <span>Priyanka Kodikal, </span> <span>Mohammed Abid, </span> <span>Jeremy Friedland, </span> <span>Marcos Mejia, </span> <span>Trevor Phillippi, </span> <span>Moeed Mohammad, </span> <span>Lu Huang, </span>  <span>and Leonard Jung.</span></span></p>
+				<div style="max-width: 668px; margin-left: auto; margin-right: auto"><a target="_blank" class="tooltip" href="https://instagram.com/riccardo"><img src="public/images/avatars/riccardo.png" alt="Riccardo Carlet"><span class="tooltip-text">Riccardo Carlet</span></a><a target="_blank" class="tooltip" href="http://ericls.com"><img src="public/images/avatars/ericl.jpg" alt="Eric Liang"><span class="tooltip-text">Eric Liang</span></a><a target="_blank" class="tooltip" href="https://medium.com/@jeffpersonified"><img src="public/images/avatars/jeff.jpg" alt="Jeff Smith"><span class="tooltip-text">Jeff Smith</span></a><a target="_blank" class="tooltip" href="https://instagram.com/andjosaquino"><img src="public/images/avatars/andrewa.png" alt="Andrew Aquino"><span class="tooltip-text">Andrew Aquino</span></a><a target="_blank" class="tooltip" href="http://twitter.com/robinclediere"><img src="public/images/avatars/robin.jpg" alt="Robin Clediere"><span class="tooltip-text">Robin Clediere</span></a><a target="_blank" class="tooltip" href="https://twitter.com/deanhudson"><img src="public/images/avatars/dean.png" alt="Dean Hudson"><span class="tooltip-text">Dean Hudson</span></a><a target="_blank" class="tooltip" href="http://twitter.com/skirano"><img src="public/images/avatars/pietro.png" alt="Pietro Schirano"><span class="tooltip-text">Pietro Schirano</span></a><a target="_blank" class="tooltip" href="http://twitter.com/harrycopeman"><img src="public/images/avatars/harry.png" alt="Harry Copeman"><span class="tooltip-text">Harry Copeman</span></a><a target="_blank" class="tooltip" href="http://www.facebook.com/andrew.pouliot"><img src="public/images/avatars/andrew.png" alt="Andrew Pouliot"><span class="tooltip-text">Andrew Pouliot</span></a><a target="_blank" class="tooltip" href="http://tflsmedia.com"><img src="public/images/avatars/yih.png" alt="Yih Liang"><span class="tooltip-text">Yih Liang</span></a><a target="_blank" class="tooltip" href="https://twitter.com/shalinguyen"><img src="public/images/avatars/shali.png" alt="Shali Nguyen"><span class="tooltip-text">Shali Nguyen</span></a><a target="_blank" class="tooltip" href="https://twitter.com/jtroll"><img src="public/images/avatars/jt.jpg" alt="J.T. Trollman"><span class="tooltip-text">J.T. Trollman</span></a><a target="_blank" class="tooltip" href="http://renzokuroda.com/"><img src="public/images/avatars/benji.png" alt="Benji Kuroda"><span class="tooltip-text">Benji Kuroda</span></a><a target="_blank" class="tooltip" href="https://twitter.com/gabrielvaldivia"><img src="public/images/avatars/gabe.jpg" alt="Gabriel Valdivia"><span class="tooltip-text">Gabriel Valdivia</span></a><a target="_blank" class="tooltip" href="https://twitter.com/pelleew"><img src="public/images/avatars/pelle.png" alt="Pelle Wistén"><span class="tooltip-text">Pelle Wistén</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/pkodikal"><img src="public/images/avatars/priyanka.jpg" alt="Priyanka Kodikal"><span class="tooltip-text">Priyanka Kodikal</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/mabid4"><img src="public/images/avatars/mo.png" alt="Mohammed Abid"><span class="tooltip-text">Mohammed Abid</span></a><a target="_blank" class="tooltip" href="https://www.instagram.com/jsfried/"><img src="public/images/avatars/jeremyf.jpg" alt="Jeremy Friedland"><span class="tooltip-text">Jeremy Friedland</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/marcosmejia"><img src="public/images/avatars/marcos.jpg" alt="Marcos Mejia"><span class="tooltip-text">Marcos Mejia</span></a><a target="_blank" class="tooltip" href="https://twitter.com/trevorphillippi"><img src="public/images/avatars/trevor.jpg" alt="Trevor Phillippi"><span class="tooltip-text">Trevor Phillippi</span></a><a target="_blank" class="tooltip" href="https://twitter.com/mmhd"><img src="public/images/avatars/moeed.jpg" alt="Moeed Mohammad"><span class="tooltip-text">Moeed Mohammad</span></a><a target="_blank" class="tooltip" href="https://www.instagram.com/luuu.sketch"><img src="public/images/avatars/lu.jpg" alt="Lu Huang"><span class="tooltip-text">Lu Huang</span></a><a target="_blank" class="tooltip" href="https://www.leonardjung.com"><img src="public/images/avatars/leonard.png" alt="Leonard Jung"><span class="tooltip-text">Leonard Jung</span></a>
+		  		</div>
+			</div>
+		</div>
+		<div class="container--call_to_action"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Devices/Facebook+Devices.zip" target="_blank" onClick="ga('send', 'event', 'Downloads', 'download', 'Download All Devices');"><button class="button button--active button--header">Download All Devices</button></a>
+		</div><div class="page-wrapper"><hr /></div>
+		<div class="related_posts-container">
+			<p class="related_posts-header">More Resources</p>
+          <div class="related_posts-container">
+            <div layout="rows center-spread">
+
+
+		<a href="ios11" onClick="ga('send', 'event', 'iOS 11 iPhone GUI', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/ios11-card.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">iOS 11 iPhone GUI</div>
+					<p class="card-description">Origami, Sketch, Framer, and Photoshop templates of GUI elements found in the public release of iOS 11.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">guis</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+
+		<a href="desktopkit" onClick="ga('send', 'event', 'Desktop Kit', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/card_resource_desktopkit@2x.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">Desktop Kit</div>
+					<p class="card-description">Sketch Template of UI Elements Found in macOS.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">guis</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+
+		<a href="soundkit" onClick="ga('send', 'event', 'Sound Kit for Prototypes', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/card_resource_soundkit@2x.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">Sound Kit for Prototypes</div>
+					<p class="card-description">A collection of interaction sounds for prototypes.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">tools</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+            </div>
+          </div>
+	</div>
+</div>
+<script src="public/js/devices.js"></script>
+<style>.header-image { background-image:url(public/images/devices_header.png);}</style>
+<script>
+$(function(){
+    var bgimage = new Image();      
+    bgimage.src="/public/images/devices_header.png";       
+    $(bgimage).load(function(){
+        $('.header-image').addClass('visible');  
+        $(".header-image").css("background-image","url("+$(this).attr("src")+")");
+    });
+});
+</script>
+<script src="public/js/smooth-scroll.js"></script>
+<script src="public/js/popup.js"></script>
+<script>smoothScroll.init();</script>
+
+	</div>
+<div id="footer" layout="rows center-left">
+	<div id="end-mark">
+		<p class="copyright">Facebook &copy; 2020&nbsp;&nbsp;·&nbsp;&nbsp;<a onClick="ga('send', 'event', 'Careers Referral', 'clicks', 'Careers');" href="https://www.facebook.com/careers/areas-of-work/design/?ref=fbd_product_design&sub_teams[0]=Design" target="_blank">Careers</a></p>
+	</div>
+	<div id="footer-links" self="right">
+		<ul>
+			<a href="http://facebook.com/design" onClick="ga('send', 'event', 'Facebook', 'clicks', 'Footer');"><li class="facebook"></li></a>
+			<a href="http://instagram.com/facebookdesign" onClick="ga('send', 'event', 'Instagram', 'clicks', 'Footer');"><li class="instagram"></li></a>
+			<a href="http://twitter.com/facebookdesign" onClick="ga('send', 'event', 'Twitter', 'clicks', 'Footer');"><li class="twitter"></li></a>
+			<a href="http://dribbble.com/facebook" onClick="ga('send', 'event', 'Dribbble', 'clicks', 'Footer');"><li class="dribbble"></li></a>
+			<a href="http://medium.com/facebook-design" onClick="ga('send', 'event', 'Medium', 'clicks', 'Footer');"><li class="medium"></li></a>
+		</ul>
+	</div>
+</div>
+</body>
+</html>
+

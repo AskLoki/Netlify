@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sound Kit for Prototypes | Facebook Design</title>
+	<meta name="author" content="Facebook, Inc." />
+	<meta name="keywords" content="facebook, design, team, resources, tools, articles, iOS, iOS9, iOS10, iPhone, devices, sketch, photoshop, psd, free, download, ">
+	<meta name="description" content="A collection of interaction sounds for prototypes.">
+	<meta property="og:site_name" content="Facebook Design">
+	<meta property="og:title" content="Facebook Design &mdash; Sound Kit for Prototypes">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="A collection of interaction sounds for prototypes.">
+	<meta property="og:url" content="https://facebook.design/soundkit">
+	<meta property="og:image" content="https://facebook.design/public/images/resource_soundkit_share.png">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:url" content="https://facebook.design/soundkit">
+	<meta name="twitter:title" content="Facebook Design &mdash; Sound Kit for Prototypes">
+	<meta name="twitter:description" content="A collection of interaction sounds for prototypes.">
+	<meta name="twitter:image" content="https://facebook.design/public/images/resource_soundkit_share.png">
+	<meta name="twitter:site" content="@FacebookDesign">
+	<link href="feed.xml" type="application/rss+xml" rel="alternate" title="Feed of Recent Posts" />
+	<link rel="stylesheet" type="text/css" href="public/css/fonts.css">
+	<link rel="stylesheet" type="text/css" href="public/css/global.css">
+	<link rel="stylesheet" type="text/css" href="public/css/flex-layout-attribute.css">
+	<link rel="stylesheet" type="text/css" href="public/css/posts.css">
+	<link rel="icon" href="favicon.ico?v=1.2"> 
+	<script type='text/javascript' src='public/js/jquery-2.1.0.min.js'></script>
+	<script type='text/javascript' src='public/js/global.js'></script>
+	<script type='text/javascript' src="public/js/jquery.mixitup.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-68601148-1', 'auto');
+	  ga('send', 'pageview');
+	  ga('set', 'anonymizeIp', true);
+	</script>
+</head>
+<body>
+<div id="nav" layout="row top-left">
+	<div self="left">
+		<a href="index.html"><div class="logo logo-isNotVisIfMobile"></div></a>
+		<a href="index.html" class="logo-isVisIfMobile"><div class="logo logo-isVisIfMobile"></div></a>
+	</div>
+	<div class="nav-isNotVisIfMobile">
+		<div class="item">
+		<a href="blog/index.html">Blog</a>
+		</div>
+		<div class="item current">
+		<a href="toolsandresources/index.html">Tools & Resources</a>
+		</div>
+		<div class="item">
+		<a href="careers/index.html">Careers</a>
+		</div>
+	</div>
+	<div class="nav-isVisIfMobile">
+		<div class="item">
+		<a href="blog/index.html">Blog</a>
+		</div>
+		<div class="item current">
+		<a href="toolsandresources/index.html">Resources</a>
+		</div>
+		<div class="item">
+		<a href="careers/index.html">Careers</a>
+		</div>
+	</div>
+</div>
+	<div id="content">
+	
+		<div class="text">
+			<section class="container--full-screen" layout="column">
+			    <div self="top"></div>
+			    <div class="container--hero" layout="md-column" self="center">
+				<div class="header-image-container" self="size-large center">
+					<div class="header-image"></div>
+				</div>
+			      <div class="header-details-container" self="size-xsmall center">
+					  <h1>Sound Kit for Prototypes</h1>
+					  <p>A collection of interaction sounds for prototypes.</p>
+					  
+					  <a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Sound+Kit/Facebook+Sound+Kit.zip" target="_blank" onClick="ga('send', 'event', 'Downloads', 'download', 'Download All Sounds');"><button class="button button--active button--header">Download All Sounds</button></a>
+					  
+
+
+					  
+					  <p class="header-disclaimer">Updated June 21, 2017 · <a href="http://facebookmicrosites.github.io/design/soundkitlicense/" onclick="javascript:popUp('http://facebookmicrosites.github.io/design/soundkitlicense/','License','520','480');return false" class="small">License</a></p>
+					  
+			      </div>
+			    </div>
+				<div class="action_bar-wrapper" self="bottom">
+					<div class="action_bar-share">
+							<div class="logo"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffacebook.design/soundkit" onclick="javascript:popUp('https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffacebook.design/soundkit','Share','520','350');return false" class="share"><svg width="28px" height="28px" class="icon" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.196929,27.8286204 L16.196929,18.0061731 L19.4444018,18.0061731 L20.073852,14.0430854 L16.196929,14.0430854 L16.196929,11.4169554 C16.196929,10.3097837 16.7298696,9.21848032 18.4689708,9.21848032 L20.2461538,9.21848032 L20.2461538,5.72114954 C19.1702055,5.52552287 18.1216567,5.42770954 17.1005077,5.42770954 C13.9026489,5.42770954 11.8030766,7.4068269 11.8030766,10.9156244 L11.8030766,14.0430854 L8.27076923,14.0430854 L8.27076923,18.0061731 L11.8030766,18.0061731 L11.8030766,27.8286213 C5.11476227,26.7744853 0,20.9845414 0,14 C0,6.268024 6.268024,0 14,0 C21.731976,0 28,6.268024 28,14 C28,20.9845395 22.8852406,26.774482 16.196929,27.8286204 Z" id="path-1"></path></defs><g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><mask id="mask-2" fill="white"><use xlink:href="#path-1"></use></mask><use id="Fill-1" fill="#677B8C" xlink:href="#path-1"></use></g></svg><span>Share</span></a></div>
+							<div class="logo"><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Ffacebook.design/soundkit&amp;via=FacebookDesign&amp;text=Sound Kit for Prototypes%20-%20Facebook%20Design%20Resources&amp;" onclick="javascript:popUp('https://twitter.com/intent/tweet?url=http%3A%2F%2Ffacebook.design/soundkit&amp;via=FacebookDesign&amp;text=Sound Kit for Prototypes%20-%20Facebook%20Design%20Resources&amp;','Share','520','350');return false" class="share"><svg version="1.1" class="icon" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-219 327.6 171.5 139.4" style="enable-background:new -219 327.6 171.5 139.4;" xml:space="preserve"><path fill="#677B8C" d="M-47.5,344.1c-6.3,2.8-13.1,4.7-20.2,5.5c7.3-4.4,12.8-11.2,15.5-19.5c-6.8,4-14.3,7-22.3,8.5c-6.4-6.8-15.6-11.1-25.7-11.1c-19.4,0-35.2,15.8-35.2,35.2c0,2.8,0.3,5.4,0.9,8c-29.2-1.5-55.2-15.5-72.5-36.8c-3,5.2-4.8,11.2-4.8,17.7c0,12.2,6.2,23,15.7,29.3c-5.8-0.2-11.2-1.8-15.9-4.4c0,0.1,0,0.3,0,0.4c0,17,12.1,31.3,28.2,34.5c-3,0.8-6.1,1.2-9.3,1.2c-2.3,0-4.5-0.2-6.6-0.6c4.5,14,17.5,24.2,32.9,24.4c-12,9.4-27.2,15.1-43.7,15.1c-2.8,0-5.6-0.2-8.4-0.5c15.6,10,34.1,15.8,53.9,15.8c64.7,0,100.1-53.6,100.1-100.1c0-1.5,0-3-0.1-4.6C-58.2,357.4-52.2,351.2-47.5,344.1L-47.5,344.1z"></path></svg><span>Tweet</span></a></div>
+					</div>
+					<div class="action_bar-arrow">
+						<a data-scroll="" href="soundkit#scroll"><svg version="1.1" class="arrow-icon" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-279 386 53 21" style="enable-background:new -279 386 53 21;" xml:space="preserve"><polygon id="SVGID_3_" class="st0" fill="#DDDFE2" points="-252.5,403.3 -277.3,386 -279,388.5 -252.8,406.8 -252.5,406.4 -252.3,406.8 -226.1,388.5 -227.8,386 "></polygon></svg></a>
+					</div>
+			    </div>
+			</section>
+<div id="scroll" class="content"><h2 id="designing-for-sound">Designing for Sound</h2>
+
+<p>To help designers explore how sound can impact their designs, Facebook Design created a collection of interaction sounds for prototypes. You can read more about how Sound Design enhances interactions within Facebook’s apps <a href="https://medium.com/@Littlejohn/3c3b30e98177" target="_blank">here</a>.</p>
+
+<p>We’ve incorporated these sounds into <a href="http://origami.design" target="_blank">Origami</a> and worked with the Framer Team to add them to <a href="http://framer.com" target="_blank">Framer</a> as well.  But you can also download the entire set of sounds and use them for other prototypes.</p>
+
+<div layout="row stretch-stretch">
+    <div class="container--image" self="size-x1 stretch">
+        <img class="container--full-width" src="public/images/soundkitplugin.png" />
+    </div>
+</div>
+
+<h2 id="whats-inside">What’s inside?</h2>
+
+<p>The set includes two folders: “Full Volume” and “Low Volume”. Each has a variety of sounds that are identical to each other with one difference being the default volume.</p>
+
+<div layout="row center-center">
+    <div class="container--image">
+        <img class="container--post-width" src="public/images/volume-graphic.png" />
+    </div>
+</div>
+
+<h2 id="full-volume--5db">Full Volume (-5dB)</h2>
+
+<p>We use this set of sounds when playing back on our computers. Use this sound set for times when you need more control over volume. These files are loud and will most likely need to be turned down. For example, if you are giving a demonstration on your laptop, you may need to adjust your computer or system volume to suit your playback needs.</p>
+
+<h2 id="low-volume--20db">Low Volume (-20dB)</h2>
+
+<p>We use this set of sounds when playing back on a mobile device and are closer to the sounds you might find in production. Use this sound set when you would like playback to be more representative of how experiences might sound on a mobile device. The files are much lower in volume which can help with speaker distortion. For example, each mobile device has on board DSP (Digital Signal Processing), which can impact audio playback. Playing back sounds at lower levels may help alleviate this OS challenge as you iterate.</p>
+
+<div class="container--resource">
+	<div class="container--sound">
+		<ul layout="rows top-center">
+		
+		<li class="mix ">
+			<div class="sound-card sounds">	
+				<div class="grid-card-image"><img src="public/images/buttons-and-navigation.png" alt="../public/images/buttons-and-navigation.png" /></div>
+				<h3 class="grid-card-title">Buttons and Navigation</h3>
+				<p class="grid-card-subtitle">12 Sounds</p>
+  				
+    			
+    			<audio id="button1" src="../public/sounds/Button 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="button1-btn">Button 1</a>
+      			<script>
+				var button1 = document.getElementById('button1');
+				var button1Btn = document.getElementById('button1-btn')			
+				button1Btn.addEventListener('mouseenter', function(){
+				   button1Btn.classList.add('playing');
+				   playPause(button1);
+				});				
+				button1Btn.addEventListener('click', function(){
+				   button1Btn.classList.add('playing');
+				   playPause(button1);
+				});		
+				button1Btn.addEventListener('mouseleave', function(){
+					button1Btn.classList.remove('playing');
+					stopPlaying(button1);
+				});
+				</script>
+    			
+    			<audio id="button2" src="../public/sounds/Button 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="button2-btn">Button 2</a>
+      			<script>
+				var button2 = document.getElementById('button2');
+				var button2Btn = document.getElementById('button2-btn')			
+				button2Btn.addEventListener('mouseenter', function(){
+				   button2Btn.classList.add('playing');
+				   playPause(button2);
+				});				
+				button2Btn.addEventListener('click', function(){
+				   button2Btn.classList.add('playing');
+				   playPause(button2);
+				});		
+				button2Btn.addEventListener('mouseleave', function(){
+					button2Btn.classList.remove('playing');
+					stopPlaying(button2);
+				});
+				</script>
+    			
+    			<audio id="button3" src="../public/sounds/Button 3.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="button3-btn">Button 3</a>
+      			<script>
+				var button3 = document.getElementById('button3');
+				var button3Btn = document.getElementById('button3-btn')			
+				button3Btn.addEventListener('mouseenter', function(){
+				   button3Btn.classList.add('playing');
+				   playPause(button3);
+				});				
+				button3Btn.addEventListener('click', function(){
+				   button3Btn.classList.add('playing');
+				   playPause(button3);
+				});		
+				button3Btn.addEventListener('mouseleave', function(){
+					button3Btn.classList.remove('playing');
+					stopPlaying(button3);
+				});
+				</script>
+    			
+    			<audio id="button4" src="../public/sounds/Button 4.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="button4-btn">Button 4</a>
+      			<script>
+				var button4 = document.getElementById('button4');
+				var button4Btn = document.getElementById('button4-btn')			
+				button4Btn.addEventListener('mouseenter', function(){
+				   button4Btn.classList.add('playing');
+				   playPause(button4);
+				});				
+				button4Btn.addEventListener('click', function(){
+				   button4Btn.classList.add('playing');
+				   playPause(button4);
+				});		
+				button4Btn.addEventListener('mouseleave', function(){
+					button4Btn.classList.remove('playing');
+					stopPlaying(button4);
+				});
+				</script>
+    			
+    			<audio id="button5" src="../public/sounds/Button 5.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="button5-btn">Button 5</a>
+      			<script>
+				var button5 = document.getElementById('button5');
+				var button5Btn = document.getElementById('button5-btn')			
+				button5Btn.addEventListener('mouseenter', function(){
+				   button5Btn.classList.add('playing');
+				   playPause(button5);
+				});				
+				button5Btn.addEventListener('click', function(){
+				   button5Btn.classList.add('playing');
+				   playPause(button5);
+				});		
+				button5Btn.addEventListener('mouseleave', function(){
+					button5Btn.classList.remove('playing');
+					stopPlaying(button5);
+				});
+				</script>
+    			
+    			<audio id="button6" src="../public/sounds/Button 6.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="button6-btn">Button 6</a>
+      			<script>
+				var button6 = document.getElementById('button6');
+				var button6Btn = document.getElementById('button6-btn')			
+				button6Btn.addEventListener('mouseenter', function(){
+				   button6Btn.classList.add('playing');
+				   playPause(button6);
+				});				
+				button6Btn.addEventListener('click', function(){
+				   button6Btn.classList.add('playing');
+				   playPause(button6);
+				});		
+				button6Btn.addEventListener('mouseleave', function(){
+					button6Btn.classList.remove('playing');
+					stopPlaying(button6);
+				});
+				</script>
+    			
+    			<audio id="button7" src="../public/sounds/Button 7.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="button7-btn">Button 7</a>
+      			<script>
+				var button7 = document.getElementById('button7');
+				var button7Btn = document.getElementById('button7-btn')			
+				button7Btn.addEventListener('mouseenter', function(){
+				   button7Btn.classList.add('playing');
+				   playPause(button7);
+				});				
+				button7Btn.addEventListener('click', function(){
+				   button7Btn.classList.add('playing');
+				   playPause(button7);
+				});		
+				button7Btn.addEventListener('mouseleave', function(){
+					button7Btn.classList.remove('playing');
+					stopPlaying(button7);
+				});
+				</script>
+    			
+    			<audio id="collapse" src="../public/sounds/Collapse.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="collapse-btn">Collapse</a>
+      			<script>
+				var collapse = document.getElementById('collapse');
+				var collapseBtn = document.getElementById('collapse-btn')			
+				collapseBtn.addEventListener('mouseenter', function(){
+				   collapseBtn.classList.add('playing');
+				   playPause(collapse);
+				});				
+				collapseBtn.addEventListener('click', function(){
+				   collapseBtn.classList.add('playing');
+				   playPause(collapse);
+				});		
+				collapseBtn.addEventListener('mouseleave', function(){
+					collapseBtn.classList.remove('playing');
+					stopPlaying(collapse);
+				});
+				</script>
+    			
+    			<audio id="expand" src="../public/sounds/Expand.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="expand-btn">Expand</a>
+      			<script>
+				var expand = document.getElementById('expand');
+				var expandBtn = document.getElementById('expand-btn')			
+				expandBtn.addEventListener('mouseenter', function(){
+				   expandBtn.classList.add('playing');
+				   playPause(expand);
+				});				
+				expandBtn.addEventListener('click', function(){
+				   expandBtn.classList.add('playing');
+				   playPause(expand);
+				});		
+				expandBtn.addEventListener('mouseleave', function(){
+					expandBtn.classList.remove('playing');
+					stopPlaying(expand);
+				});
+				</script>
+    			
+    			<audio id="tab1" src="../public/sounds/Tab 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="tab1-btn">Tab 1</a>
+      			<script>
+				var tab1 = document.getElementById('tab1');
+				var tab1Btn = document.getElementById('tab1-btn')			
+				tab1Btn.addEventListener('mouseenter', function(){
+				   tab1Btn.classList.add('playing');
+				   playPause(tab1);
+				});				
+				tab1Btn.addEventListener('click', function(){
+				   tab1Btn.classList.add('playing');
+				   playPause(tab1);
+				});		
+				tab1Btn.addEventListener('mouseleave', function(){
+					tab1Btn.classList.remove('playing');
+					stopPlaying(tab1);
+				});
+				</script>
+    			
+    			<audio id="tab2" src="../public/sounds/Tab 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="tab2-btn">Tab 2</a>
+      			<script>
+				var tab2 = document.getElementById('tab2');
+				var tab2Btn = document.getElementById('tab2-btn')			
+				tab2Btn.addEventListener('mouseenter', function(){
+				   tab2Btn.classList.add('playing');
+				   playPause(tab2);
+				});				
+				tab2Btn.addEventListener('click', function(){
+				   tab2Btn.classList.add('playing');
+				   playPause(tab2);
+				});		
+				tab2Btn.addEventListener('mouseleave', function(){
+					tab2Btn.classList.remove('playing');
+					stopPlaying(tab2);
+				});
+				</script>
+    			
+    			<audio id="tab3" src="../public/sounds/Tab 3.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="tab3-btn">Tab 3</a>
+      			<script>
+				var tab3 = document.getElementById('tab3');
+				var tab3Btn = document.getElementById('tab3-btn')			
+				tab3Btn.addEventListener('mouseenter', function(){
+				   tab3Btn.classList.add('playing');
+				   playPause(tab3);
+				});				
+				tab3Btn.addEventListener('click', function(){
+				   tab3Btn.classList.add('playing');
+				   playPause(tab3);
+				});		
+				tab3Btn.addEventListener('mouseleave', function(){
+					tab3Btn.classList.remove('playing');
+					stopPlaying(tab3);
+				});
+				</script>
+    			
+  				
+				</div>
+			</li>
+		<li class="mix ">
+			<div class="sound-card sounds">	
+				<div class="grid-card-image"><img src="public/images/complete-and-success.png" alt="../public/images/complete-and-success.png" /></div>
+				<h3 class="grid-card-title">Complete and Success</h3>
+				<p class="grid-card-subtitle">6 Sounds</p>
+  				
+    			
+    			<audio id="complete1" src="../public/sounds/Complete 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="complete1-btn">Complete 1</a>
+      			<script>
+				var complete1 = document.getElementById('complete1');
+				var complete1Btn = document.getElementById('complete1-btn')			
+				complete1Btn.addEventListener('mouseenter', function(){
+				   complete1Btn.classList.add('playing');
+				   playPause(complete1);
+				});				
+				complete1Btn.addEventListener('click', function(){
+				   complete1Btn.classList.add('playing');
+				   playPause(complete1);
+				});		
+				complete1Btn.addEventListener('mouseleave', function(){
+					complete1Btn.classList.remove('playing');
+					stopPlaying(complete1);
+				});
+				</script>
+    			
+    			<audio id="complete2" src="../public/sounds/Complete 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="complete2-btn">Complete 2</a>
+      			<script>
+				var complete2 = document.getElementById('complete2');
+				var complete2Btn = document.getElementById('complete2-btn')			
+				complete2Btn.addEventListener('mouseenter', function(){
+				   complete2Btn.classList.add('playing');
+				   playPause(complete2);
+				});				
+				complete2Btn.addEventListener('click', function(){
+				   complete2Btn.classList.add('playing');
+				   playPause(complete2);
+				});		
+				complete2Btn.addEventListener('mouseleave', function(){
+					complete2Btn.classList.remove('playing');
+					stopPlaying(complete2);
+				});
+				</script>
+    			
+    			<audio id="complete3" src="../public/sounds/Complete 3.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="complete3-btn">Complete 3</a>
+      			<script>
+				var complete3 = document.getElementById('complete3');
+				var complete3Btn = document.getElementById('complete3-btn')			
+				complete3Btn.addEventListener('mouseenter', function(){
+				   complete3Btn.classList.add('playing');
+				   playPause(complete3);
+				});				
+				complete3Btn.addEventListener('click', function(){
+				   complete3Btn.classList.add('playing');
+				   playPause(complete3);
+				});		
+				complete3Btn.addEventListener('mouseleave', function(){
+					complete3Btn.classList.remove('playing');
+					stopPlaying(complete3);
+				});
+				</script>
+    			
+    			<audio id="success1" src="../public/sounds/Success 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="success1-btn">Success 1</a>
+      			<script>
+				var success1 = document.getElementById('success1');
+				var success1Btn = document.getElementById('success1-btn')			
+				success1Btn.addEventListener('mouseenter', function(){
+				   success1Btn.classList.add('playing');
+				   playPause(success1);
+				});				
+				success1Btn.addEventListener('click', function(){
+				   success1Btn.classList.add('playing');
+				   playPause(success1);
+				});		
+				success1Btn.addEventListener('mouseleave', function(){
+					success1Btn.classList.remove('playing');
+					stopPlaying(success1);
+				});
+				</script>
+    			
+    			<audio id="success2" src="../public/sounds/Success 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="success2-btn">Success 2</a>
+      			<script>
+				var success2 = document.getElementById('success2');
+				var success2Btn = document.getElementById('success2-btn')			
+				success2Btn.addEventListener('mouseenter', function(){
+				   success2Btn.classList.add('playing');
+				   playPause(success2);
+				});				
+				success2Btn.addEventListener('click', function(){
+				   success2Btn.classList.add('playing');
+				   playPause(success2);
+				});		
+				success2Btn.addEventListener('mouseleave', function(){
+					success2Btn.classList.remove('playing');
+					stopPlaying(success2);
+				});
+				</script>
+    			
+    			<audio id="success3" src="../public/sounds/Success 3.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="success3-btn">Success 3</a>
+      			<script>
+				var success3 = document.getElementById('success3');
+				var success3Btn = document.getElementById('success3-btn')			
+				success3Btn.addEventListener('mouseenter', function(){
+				   success3Btn.classList.add('playing');
+				   playPause(success3);
+				});				
+				success3Btn.addEventListener('click', function(){
+				   success3Btn.classList.add('playing');
+				   playPause(success3);
+				});		
+				success3Btn.addEventListener('mouseleave', function(){
+					success3Btn.classList.remove('playing');
+					stopPlaying(success3);
+				});
+				</script>
+    			
+  				
+				</div>
+			</li>
+		<li class="mix ">
+			<div class="sound-card sounds">	
+				<div class="grid-card-image"><img src="public/images/errors-and-cancel.png" alt="../public/images/errors-and-cancel.png" /></div>
+				<h3 class="grid-card-title">Errors and Cancel</h3>
+				<p class="grid-card-subtitle">7 Sounds</p>
+  				
+    			
+    			<audio id="cancel1" src="../public/sounds/Cancel 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="cancel1-btn">Cancel 1</a>
+      			<script>
+				var cancel1 = document.getElementById('cancel1');
+				var cancel1Btn = document.getElementById('cancel1-btn')			
+				cancel1Btn.addEventListener('mouseenter', function(){
+				   cancel1Btn.classList.add('playing');
+				   playPause(cancel1);
+				});				
+				cancel1Btn.addEventListener('click', function(){
+				   cancel1Btn.classList.add('playing');
+				   playPause(cancel1);
+				});		
+				cancel1Btn.addEventListener('mouseleave', function(){
+					cancel1Btn.classList.remove('playing');
+					stopPlaying(cancel1);
+				});
+				</script>
+    			
+    			<audio id="cancel2" src="../public/sounds/Cancel 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="cancel2-btn">Cancel 2</a>
+      			<script>
+				var cancel2 = document.getElementById('cancel2');
+				var cancel2Btn = document.getElementById('cancel2-btn')			
+				cancel2Btn.addEventListener('mouseenter', function(){
+				   cancel2Btn.classList.add('playing');
+				   playPause(cancel2);
+				});				
+				cancel2Btn.addEventListener('click', function(){
+				   cancel2Btn.classList.add('playing');
+				   playPause(cancel2);
+				});		
+				cancel2Btn.addEventListener('mouseleave', function(){
+					cancel2Btn.classList.remove('playing');
+					stopPlaying(cancel2);
+				});
+				</script>
+    			
+    			<audio id="error1" src="../public/sounds/Error 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="error1-btn">Error 1</a>
+      			<script>
+				var error1 = document.getElementById('error1');
+				var error1Btn = document.getElementById('error1-btn')			
+				error1Btn.addEventListener('mouseenter', function(){
+				   error1Btn.classList.add('playing');
+				   playPause(error1);
+				});				
+				error1Btn.addEventListener('click', function(){
+				   error1Btn.classList.add('playing');
+				   playPause(error1);
+				});		
+				error1Btn.addEventListener('mouseleave', function(){
+					error1Btn.classList.remove('playing');
+					stopPlaying(error1);
+				});
+				</script>
+    			
+    			<audio id="error2" src="../public/sounds/Error 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="error2-btn">Error 2</a>
+      			<script>
+				var error2 = document.getElementById('error2');
+				var error2Btn = document.getElementById('error2-btn')			
+				error2Btn.addEventListener('mouseenter', function(){
+				   error2Btn.classList.add('playing');
+				   playPause(error2);
+				});				
+				error2Btn.addEventListener('click', function(){
+				   error2Btn.classList.add('playing');
+				   playPause(error2);
+				});		
+				error2Btn.addEventListener('mouseleave', function(){
+					error2Btn.classList.remove('playing');
+					stopPlaying(error2);
+				});
+				</script>
+    			
+    			<audio id="error3" src="../public/sounds/Error 3.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="error3-btn">Error 3</a>
+      			<script>
+				var error3 = document.getElementById('error3');
+				var error3Btn = document.getElementById('error3-btn')			
+				error3Btn.addEventListener('mouseenter', function(){
+				   error3Btn.classList.add('playing');
+				   playPause(error3);
+				});				
+				error3Btn.addEventListener('click', function(){
+				   error3Btn.classList.add('playing');
+				   playPause(error3);
+				});		
+				error3Btn.addEventListener('mouseleave', function(){
+					error3Btn.classList.remove('playing');
+					stopPlaying(error3);
+				});
+				</script>
+    			
+    			<audio id="error4" src="../public/sounds/Error 4.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="error4-btn">Error 4</a>
+      			<script>
+				var error4 = document.getElementById('error4');
+				var error4Btn = document.getElementById('error4-btn')			
+				error4Btn.addEventListener('mouseenter', function(){
+				   error4Btn.classList.add('playing');
+				   playPause(error4);
+				});				
+				error4Btn.addEventListener('click', function(){
+				   error4Btn.classList.add('playing');
+				   playPause(error4);
+				});		
+				error4Btn.addEventListener('mouseleave', function(){
+					error4Btn.classList.remove('playing');
+					stopPlaying(error4);
+				});
+				</script>
+    			
+    			<audio id="error5" src="../public/sounds/Error 5.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="error5-btn">Error 5</a>
+      			<script>
+				var error5 = document.getElementById('error5');
+				var error5Btn = document.getElementById('error5-btn')			
+				error5Btn.addEventListener('mouseenter', function(){
+				   error5Btn.classList.add('playing');
+				   playPause(error5);
+				});				
+				error5Btn.addEventListener('click', function(){
+				   error5Btn.classList.add('playing');
+				   playPause(error5);
+				});		
+				error5Btn.addEventListener('mouseleave', function(){
+					error5Btn.classList.remove('playing');
+					stopPlaying(error5);
+				});
+				</script>
+    			
+  				
+				</div>
+			</li>
+		<li class="mix ">
+			<div class="sound-card sounds">	
+				<div class="grid-card-image"><img src="public/images/notifications-and-alerts.png" alt="../public/images/notifications-and-alerts.png" /></div>
+				<h3 class="grid-card-title">Notifications and Alerts</h3>
+				<p class="grid-card-subtitle">14 Sounds</p>
+  				
+    			
+    			<audio id="alert1" src="../public/sounds/Alert 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="alert1-btn">Alert 1</a>
+      			<script>
+				var alert1 = document.getElementById('alert1');
+				var alert1Btn = document.getElementById('alert1-btn')			
+				alert1Btn.addEventListener('mouseenter', function(){
+				   alert1Btn.classList.add('playing');
+				   playPause(alert1);
+				});				
+				alert1Btn.addEventListener('click', function(){
+				   alert1Btn.classList.add('playing');
+				   playPause(alert1);
+				});		
+				alert1Btn.addEventListener('mouseleave', function(){
+					alert1Btn.classList.remove('playing');
+					stopPlaying(alert1);
+				});
+				</script>
+    			
+    			<audio id="alert2" src="../public/sounds/Alert 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="alert2-btn">Alert 2</a>
+      			<script>
+				var alert2 = document.getElementById('alert2');
+				var alert2Btn = document.getElementById('alert2-btn')			
+				alert2Btn.addEventListener('mouseenter', function(){
+				   alert2Btn.classList.add('playing');
+				   playPause(alert2);
+				});				
+				alert2Btn.addEventListener('click', function(){
+				   alert2Btn.classList.add('playing');
+				   playPause(alert2);
+				});		
+				alert2Btn.addEventListener('mouseleave', function(){
+					alert2Btn.classList.remove('playing');
+					stopPlaying(alert2);
+				});
+				</script>
+    			
+    			<audio id="alert3" src="../public/sounds/Alert 3.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="alert3-btn">Alert 3</a>
+      			<script>
+				var alert3 = document.getElementById('alert3');
+				var alert3Btn = document.getElementById('alert3-btn')			
+				alert3Btn.addEventListener('mouseenter', function(){
+				   alert3Btn.classList.add('playing');
+				   playPause(alert3);
+				});				
+				alert3Btn.addEventListener('click', function(){
+				   alert3Btn.classList.add('playing');
+				   playPause(alert3);
+				});		
+				alert3Btn.addEventListener('mouseleave', function(){
+					alert3Btn.classList.remove('playing');
+					stopPlaying(alert3);
+				});
+				</script>
+    			
+    			<audio id="alert4" src="../public/sounds/Alert 4.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="alert4-btn">Alert 4</a>
+      			<script>
+				var alert4 = document.getElementById('alert4');
+				var alert4Btn = document.getElementById('alert4-btn')			
+				alert4Btn.addEventListener('mouseenter', function(){
+				   alert4Btn.classList.add('playing');
+				   playPause(alert4);
+				});				
+				alert4Btn.addEventListener('click', function(){
+				   alert4Btn.classList.add('playing');
+				   playPause(alert4);
+				});		
+				alert4Btn.addEventListener('mouseleave', function(){
+					alert4Btn.classList.remove('playing');
+					stopPlaying(alert4);
+				});
+				</script>
+    			
+    			<audio id="alert5" src="../public/sounds/Alert 5.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="alert5-btn">Alert 5</a>
+      			<script>
+				var alert5 = document.getElementById('alert5');
+				var alert5Btn = document.getElementById('alert5-btn')			
+				alert5Btn.addEventListener('mouseenter', function(){
+				   alert5Btn.classList.add('playing');
+				   playPause(alert5);
+				});				
+				alert5Btn.addEventListener('click', function(){
+				   alert5Btn.classList.add('playing');
+				   playPause(alert5);
+				});		
+				alert5Btn.addEventListener('mouseleave', function(){
+					alert5Btn.classList.remove('playing');
+					stopPlaying(alert5);
+				});
+				</script>
+    			
+    			<audio id="notification1" src="../public/sounds/Notification 1.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification1-btn">Notification 1</a>
+      			<script>
+				var notification1 = document.getElementById('notification1');
+				var notification1Btn = document.getElementById('notification1-btn')			
+				notification1Btn.addEventListener('mouseenter', function(){
+				   notification1Btn.classList.add('playing');
+				   playPause(notification1);
+				});				
+				notification1Btn.addEventListener('click', function(){
+				   notification1Btn.classList.add('playing');
+				   playPause(notification1);
+				});		
+				notification1Btn.addEventListener('mouseleave', function(){
+					notification1Btn.classList.remove('playing');
+					stopPlaying(notification1);
+				});
+				</script>
+    			
+    			<audio id="notification2" src="../public/sounds/Notification 2.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification2-btn">Notification 2</a>
+      			<script>
+				var notification2 = document.getElementById('notification2');
+				var notification2Btn = document.getElementById('notification2-btn')			
+				notification2Btn.addEventListener('mouseenter', function(){
+				   notification2Btn.classList.add('playing');
+				   playPause(notification2);
+				});				
+				notification2Btn.addEventListener('click', function(){
+				   notification2Btn.classList.add('playing');
+				   playPause(notification2);
+				});		
+				notification2Btn.addEventListener('mouseleave', function(){
+					notification2Btn.classList.remove('playing');
+					stopPlaying(notification2);
+				});
+				</script>
+    			
+    			<audio id="notification3" src="../public/sounds/Notification 3.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification3-btn">Notification 3</a>
+      			<script>
+				var notification3 = document.getElementById('notification3');
+				var notification3Btn = document.getElementById('notification3-btn')			
+				notification3Btn.addEventListener('mouseenter', function(){
+				   notification3Btn.classList.add('playing');
+				   playPause(notification3);
+				});				
+				notification3Btn.addEventListener('click', function(){
+				   notification3Btn.classList.add('playing');
+				   playPause(notification3);
+				});		
+				notification3Btn.addEventListener('mouseleave', function(){
+					notification3Btn.classList.remove('playing');
+					stopPlaying(notification3);
+				});
+				</script>
+    			
+    			<audio id="notification4" src="../public/sounds/Notification 4.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification4-btn">Notification 4</a>
+      			<script>
+				var notification4 = document.getElementById('notification4');
+				var notification4Btn = document.getElementById('notification4-btn')			
+				notification4Btn.addEventListener('mouseenter', function(){
+				   notification4Btn.classList.add('playing');
+				   playPause(notification4);
+				});				
+				notification4Btn.addEventListener('click', function(){
+				   notification4Btn.classList.add('playing');
+				   playPause(notification4);
+				});		
+				notification4Btn.addEventListener('mouseleave', function(){
+					notification4Btn.classList.remove('playing');
+					stopPlaying(notification4);
+				});
+				</script>
+    			
+    			<audio id="notification5" src="../public/sounds/Notification 5.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification5-btn">Notification 5</a>
+      			<script>
+				var notification5 = document.getElementById('notification5');
+				var notification5Btn = document.getElementById('notification5-btn')			
+				notification5Btn.addEventListener('mouseenter', function(){
+				   notification5Btn.classList.add('playing');
+				   playPause(notification5);
+				});				
+				notification5Btn.addEventListener('click', function(){
+				   notification5Btn.classList.add('playing');
+				   playPause(notification5);
+				});		
+				notification5Btn.addEventListener('mouseleave', function(){
+					notification5Btn.classList.remove('playing');
+					stopPlaying(notification5);
+				});
+				</script>
+    			
+    			<audio id="notification6" src="../public/sounds/Notification 6.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification6-btn">Notification 6</a>
+      			<script>
+				var notification6 = document.getElementById('notification6');
+				var notification6Btn = document.getElementById('notification6-btn')			
+				notification6Btn.addEventListener('mouseenter', function(){
+				   notification6Btn.classList.add('playing');
+				   playPause(notification6);
+				});				
+				notification6Btn.addEventListener('click', function(){
+				   notification6Btn.classList.add('playing');
+				   playPause(notification6);
+				});		
+				notification6Btn.addEventListener('mouseleave', function(){
+					notification6Btn.classList.remove('playing');
+					stopPlaying(notification6);
+				});
+				</script>
+    			
+    			<audio id="notification7" src="../public/sounds/Notification 7.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification7-btn">Notification 7</a>
+      			<script>
+				var notification7 = document.getElementById('notification7');
+				var notification7Btn = document.getElementById('notification7-btn')			
+				notification7Btn.addEventListener('mouseenter', function(){
+				   notification7Btn.classList.add('playing');
+				   playPause(notification7);
+				});				
+				notification7Btn.addEventListener('click', function(){
+				   notification7Btn.classList.add('playing');
+				   playPause(notification7);
+				});		
+				notification7Btn.addEventListener('mouseleave', function(){
+					notification7Btn.classList.remove('playing');
+					stopPlaying(notification7);
+				});
+				</script>
+    			
+    			<audio id="notification8" src="../public/sounds/Notification 8.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification8-btn">Notification 8</a>
+      			<script>
+				var notification8 = document.getElementById('notification8');
+				var notification8Btn = document.getElementById('notification8-btn')			
+				notification8Btn.addEventListener('mouseenter', function(){
+				   notification8Btn.classList.add('playing');
+				   playPause(notification8);
+				});				
+				notification8Btn.addEventListener('click', function(){
+				   notification8Btn.classList.add('playing');
+				   playPause(notification8);
+				});		
+				notification8Btn.addEventListener('mouseleave', function(){
+					notification8Btn.classList.remove('playing');
+					stopPlaying(notification8);
+				});
+				</script>
+    			
+    			<audio id="notification9" src="../public/sounds/Notification 9.mp3" preload="metadata" type="audio/mp3">Your browser does not support the audio element.</audio>
+      			<a class="btn" id="notification9-btn">Notification 9</a>
+      			<script>
+				var notification9 = document.getElementById('notification9');
+				var notification9Btn = document.getElementById('notification9-btn')			
+				notification9Btn.addEventListener('mouseenter', function(){
+				   notification9Btn.classList.add('playing');
+				   playPause(notification9);
+				});				
+				notification9Btn.addEventListener('click', function(){
+				   notification9Btn.classList.add('playing');
+				   playPause(notification9);
+				});		
+				notification9Btn.addEventListener('mouseleave', function(){
+					notification9Btn.classList.remove('playing');
+					stopPlaying(notification9);
+				});
+				</script>
+    			
+  				
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<script>
+function playPause(song){
+    song.play();
+}
+function stopPlaying(song){
+	song.pause();
+	song.currentTime = 0;
+}
+</script>
+
+<p>Please do not repackage and redistribute these as your own. If you want to include them in your design tool like Origami or Framer, contact us!</p>
+</div>
+		<div class="content-wrapper">
+		  <div class="container container--credits">
+				<p>A special thanks to  <span>Will Littlejohn, </span> <span>Jon Ojeda, </span> <span>Scott Dugdale, </span> <span>Debashish Paul, </span> <span>Matej Hrescak, </span>  <span>and Jeff Smith.</span></span></p>
+				<div style="max-width: 668px; margin-left: auto; margin-right: auto"><a target="_blank" class="tooltip" href="https://medium.com/@Littlejohn"><img src="public/images/avatars/will.jpg" alt="Will Littlejohn"><span class="tooltip-text">Will Littlejohn</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/jonmojeda"><img src="public/images/avatars/jon.jpg" alt="Jon Ojeda"><span class="tooltip-text">Jon Ojeda</span></a><a target="_blank" class="tooltip" href="https://www.facebook.com/ScottDugdaleMusic"><img src="public/images/avatars/scott.jpg" alt="Scott Dugdale"><span class="tooltip-text">Scott Dugdale</span></a><a target="_blank" class="tooltip" href="https://medium.com/@tweetsofdeb"><img src="public/images/avatars/debashish.jpg" alt="Debashish Paul"><span class="tooltip-text">Debashish Paul</span></a><a target="_blank" class="tooltip" href="https://medium.com/@hrescak"><img src="public/images/avatars/matej.jpg" alt="Matej Hrescak"><span class="tooltip-text">Matej Hrescak</span></a><a target="_blank" class="tooltip" href="https://medium.com/@jeffpersonified"><img src="public/images/avatars/jeff.jpg" alt="Jeff Smith"><span class="tooltip-text">Jeff Smith</span></a>
+		  		</div>
+			</div>
+		</div>
+		<div class="container--call_to_action"><a href="https://s3-us-west-1.amazonaws.com/fbdesignresources/Sound+Kit/Facebook+Sound+Kit.zip" target="_blank" onClick="ga('send', 'event', 'Downloads', 'download', 'Download All Sounds');"><button class="button button--active button--header">Download All Sounds</button></a>
+		</div><div class="page-wrapper"><hr /></div>
+		<div class="related_posts-container">
+			<p class="related_posts-header">More Resources</p>
+          <div class="related_posts-container">
+            <div layout="rows center-spread">
+
+		<a href="devices" onClick="ga('send', 'event', 'Devices', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/card_resource_devices_2020@2x.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">Devices</div>
+					<p class="card-description">Images and Sketch files of popular devices.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">images</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+
+		<a href="ios11" onClick="ga('send', 'event', 'iOS 11 iPhone GUI', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/ios11-card.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">iOS 11 iPhone GUI</div>
+					<p class="card-description">Origami, Sketch, Framer, and Photoshop templates of GUI elements found in the public release of iOS 11.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">guis</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+
+		<a href="desktopkit" onClick="ga('send', 'event', 'Desktop Kit', 'clicks', 'Card');">
+			<div class="card card--resource not-visible" > <!--Resource-->
+				
+				<div class="card-hero" style="background-image: url(public/images/card_resource_desktopkit@2x.png);">
+				</div>
+				<div class="card-body">
+					<div class="card-title">Desktop Kit</div>
+					<p class="card-description">Sketch Template of UI Elements Found in macOS.</p>
+				</div>
+			<div class="card-footer">
+				<div class="card-footer-wrapper" layout="row bottom-left">
+				
+					<div class="card-tag is-notShownIfHover">guis</div>
+				
+
+				
+				
+				
+				
+				<div class="card-tag is-shownIfHover" self="left">View more</div>
+				
+				
+				
+				</div>
+			</div>
+		</div>
+
+		
+		</a>
+            </div>
+          </div>
+	</div>
+</div>
+
+<style>.header-image { background-image:url(public/images/resource_soundkit_header.png);}</style>
+<script>
+$(function(){
+    var bgimage = new Image();      
+    bgimage.src="/public/images/resource_soundkit_header.png";       
+    $(bgimage).load(function(){
+        $('.header-image').addClass('visible');  
+        $(".header-image").css("background-image","url("+$(this).attr("src")+")");
+    });
+});
+</script>
+<script src="public/js/smooth-scroll.js"></script>
+<script src="public/js/popup.js"></script>
+<script>smoothScroll.init();</script>
+
+	</div>
+<div id="footer" layout="rows center-left">
+	<div id="end-mark">
+		<p class="copyright">Facebook &copy; 2020&nbsp;&nbsp;·&nbsp;&nbsp;<a onClick="ga('send', 'event', 'Careers Referral', 'clicks', 'Careers');" href="https://www.facebook.com/careers/areas-of-work/design/?ref=fbd_product_design&sub_teams[0]=Design" target="_blank">Careers</a></p>
+	</div>
+	<div id="footer-links" self="right">
+		<ul>
+			<a href="http://facebook.com/design" onClick="ga('send', 'event', 'Facebook', 'clicks', 'Footer');"><li class="facebook"></li></a>
+			<a href="http://instagram.com/facebookdesign" onClick="ga('send', 'event', 'Instagram', 'clicks', 'Footer');"><li class="instagram"></li></a>
+			<a href="http://twitter.com/facebookdesign" onClick="ga('send', 'event', 'Twitter', 'clicks', 'Footer');"><li class="twitter"></li></a>
+			<a href="http://dribbble.com/facebook" onClick="ga('send', 'event', 'Dribbble', 'clicks', 'Footer');"><li class="dribbble"></li></a>
+			<a href="http://medium.com/facebook-design" onClick="ga('send', 'event', 'Medium', 'clicks', 'Footer');"><li class="medium"></li></a>
+		</ul>
+	</div>
+</div>
+</body>
+</html>
+

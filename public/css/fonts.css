@@ -1,0 +1,83 @@
+@font-face {
+	font-display: fallback;
+	font-family: 'Facebook Reader Regular';
+	font-style: normal;
+	font-weight: 500;
+	src: url(../fonts/FacebookReader-Regular.eot)
+	format('embedded-opentype');
+	src: url(../fonts/FacebookReader-Regular.eot)
+	  format('embedded-opentype'),
+	url(../fonts/FacebookReader-Regular.woff2) format('woff2'),
+	url(../fonts/FacebookReader-Regular.woff) format('woff'),
+	url(../fonts/FacebookReader-Regular.ttf) format('truetype');
+}
+
+/*@font-face {
+	font-display: fallback;
+	font-family: 'Facebook Reader Italic';
+	font-style: italic;
+	font-weight: 500;
+	src: url(../fonts/FacebookReader-Italic.eot)
+	format('embedded-opentype');
+	src: url(../fonts/FacebookReader-Italic.eot)
+	  format('embedded-opentype'),
+	url(../fonts/FacebookReader-Italic.woff2) format('woff2'),
+	url(../fonts/FacebookReader-Italic.woff) format('woff'),
+	url(../fonts/FacebookReader-Italic.ttf) format('truetype');
+}*/
+
+@font-face {
+	font-display: fallback;
+	font-family: 'Facebook Reader Medium';
+	font-style: normal;
+	font-weight: 600;
+	src: url(../fonts/FacebookReader-Medium.eot)
+	format('embedded-opentype');
+	src: url(../fonts/FacebookReader-Medium.eot)
+	  format('embedded-opentype'),
+	url(../fonts/FacebookReader-Medium.woff2) format('woff2'),
+	url(../fonts/FacebookReader-Medium.woff) format('woff'),
+	url(../fonts/FacebookReader-Medium.ttf) format('truetype');
+}
+
+/*@font-face {
+	font-display: fallback;
+	font-family: 'Facebook Reader Medium Italic';
+	font-style: italic;
+	font-weight: 600;
+	src: url(../fonts/FacebookReader-MediumItalic.eot)
+	format('embedded-opentype');
+	src: url(../fonts/FacebookReader-MediumItalic.eot)
+	  format('embedded-opentype'),
+	url(../fonts/FacebookReader-MediumItalic.woff2) format('woff2'),
+	url(../fonts/FacebookReader-MediumItalic.woff) format('woff'),
+	url(../fonts/FacebookReader-MediumItalic.ttf) format('truetype');
+}*/
+
+@font-face {
+	font-display: fallback;
+	font-family: 'Facebook Reader Bold';
+	font-style: normal;
+	font-weight: 900;
+	src: url(../fonts/FacebookReader-Bold.eot)
+	format('embedded-opentype');
+	src: url(../fonts/FacebookReader-Bold.eot)
+	  format('embedded-opentype'),
+	url(../fonts/FacebookReader-Bold.woff2) format('woff2'),
+	url(../fonts/FacebookReader-Bold.woff) format('woff'),
+	url(../fonts/FacebookReader-Bold.ttf) format('truetype');
+}
+
+/*@font-face {
+	font-display: fallback;
+	font-family: 'Facebook Reader Bold Italic';
+	font-style: italic;
+	font-weight: 900;
+	src: url(../fonts/FacebookReader-BoldItalic.eot)
+	format('embedded-opentype');
+	src: url(../fonts/FacebookReader-BoldItalic.eot)
+	  format('embedded-opentype'),
+	url(../fonts/FacebookReader-BoldItalic.woff2) format('woff2'),
+	url(../fonts/FacebookReader-BoldItalic.woff) format('woff'),
+	url(../fonts/FacebookReader-BoldItalic.ttf) format('truetype');
+}*/
