@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="19px" height="14px" viewBox="0 0 19 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
     <title>facebook-design-logo-small</title>
     <desc>Created with Sketch.</desc>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="PingFangSC-Medium, PingFang SC" font-size="19" font-weight="400">
-        <g id="facebook-design-logo-small" transform="translate(-5.000000, -6.000000)" fill="#677B80">
-            <text id="I">
-                <tspan x="4" y="20">I</tspan>
-            </text>
-            <text id="N">
-                <tspan x="11" y="20">N</tspan>
-            </text>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="facebook-design-logo-small" fill="#027AFF">
+            <g id="矩形-2">
+                <rect id="矩形" x="0" y="0" width="2.4" height="13"></rect>
+            </g>
+            <g id="编组-2" transform="translate(7.000000, 0.000000)">
+                <g id="编组-5">
+                    <path d="M6.2,0 C8.29868205,-1.27370006e-15 10,1.70131795 10,3.8 C10,5.54068863 8.82959983,7.00801566 7.23282112,7.45795946 L10.2290127,12.7007722 C10.2838147,12.7966757 10.2504953,12.9188466 10.1545919,12.9736486 C10.1243723,12.9909169 10.0901695,13 10.0553641,13 L8.11606451,13 C8.04429314,13 7.97802445,12.9615428 7.94241588,12.8992278 L4.914,7.6 L2.399,7.6 L2.4,12.8 C2.4,12.9104569 2.31045695,13 2.2,13 L0.2,13 C0.08954305,13 -6.80986555e-14,12.9104569 -6.81676937e-14,12.8 L-6.81676937e-14,0.2 C-6.81812208e-14,0.08954305 0.08954305,1.86824066e-16 0.2,0 L6.2,0 Z M6,2.4 L2.399,2.4 L2.399,5.6 L6,5.6 C6.8836556,5.6 7.6,4.8836556 7.6,4 C7.6,3.1163444 6.8836556,2.4 6,2.4 Z" id="形状结合"></path>
+                </g>
+            </g>
         </g>
     </g>
 </svg>
